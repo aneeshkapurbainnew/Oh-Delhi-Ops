@@ -1,0 +1,28 @@
+# DOMAIN=ops.example.in gets a free Let's Encrypt certificate automatically.
+# DOMAIN=:80 serves plain http (only for testing on a private network).
+{$DOMAIN} {
+	encode zstd gzip
+
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		X-Frame-Options "DENY"
+		Referrer-Policy "same-origin"
+		-Server
+	}
+
+	handle /api/* {
+		request_body {
+			max_size 12MB
+		}
+		reverse_proxy api:8000
+	}
+
+	handle {
+		root * /srv
+		@assets path /assets/*
+		header @assets Cache-Control "public, max-age=31536000, immutable"
+		try_files {path} /index.html
+		file_server
+	}
+}

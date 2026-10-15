@@ -1,0 +1,4111 @@
+{
+ "items": [
+  {
+   "name": "Brown Bread",
+   "category": "BREADS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Loaf",
+   "consumption_unit": "Loaf",
+   "conversion_ratio": 1.0,
+   "start_price": 75.0
+  },
+  {
+   "name": "Garlic Loaf",
+   "category": "BREADS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Loaf",
+   "consumption_unit": "Loaf",
+   "conversion_ratio": 1.0,
+   "start_price": 45.0
+  },
+  {
+   "name": "White Bread",
+   "category": "BREADS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Loaf",
+   "consumption_unit": "Loaf",
+   "conversion_ratio": 1.0,
+   "start_price": 70.0
+  },
+  {
+   "name": "Black Olives Bottle",
+   "category": "CONTINENTAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 156.0
+  },
+  {
+   "name": "Black Olives Tin",
+   "category": "CONTINENTAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Tin",
+   "consumption_unit": "Tin",
+   "conversion_ratio": 1.0,
+   "start_price": 585.0
+  },
+  {
+   "name": "Coffee",
+   "category": "CONTINENTAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 800.0
+  },
+  {
+   "name": "French Fries",
+   "category": "CONTINENTAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Packet",
+   "consumption_unit": "Small_packet",
+   "conversion_ratio": 5.0,
+   "start_price": 350.0
+  },
+  {
+   "name": "Green Olives Bottle",
+   "category": "CONTINENTAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 137.55
+  },
+  {
+   "name": "Green Olives Tin",
+   "category": "CONTINENTAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Tin",
+   "consumption_unit": "Tin",
+   "conversion_ratio": 1.0,
+   "start_price": 585.0
+  },
+  {
+   "name": "Jalapenos",
+   "category": "CONTINENTAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 86.3
+  },
+  {
+   "name": "Nachos",
+   "category": "CONTINENTAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 75.0
+  },
+  {
+   "name": "Salsa",
+   "category": "CONTINENTAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 120.0
+  },
+  {
+   "name": "Sugar",
+   "category": "CONTINENTAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 50.0
+  },
+  {
+   "name": "Sundried Tomato",
+   "category": "CONTINENTAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 266.0
+  },
+  {
+   "name": "Oregano Sachets",
+   "category": "CUTLERY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 0.6
+  },
+  {
+   "name": "Saute Sticks",
+   "category": "CUTLERY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Vinegar Sachets",
+   "category": "CUTLERY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 0.9
+  },
+  {
+   "name": "Amul Butter Chiplets",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "piece",
+   "conversion_ratio": 100.0,
+   "start_price": 525.0
+  },
+  {
+   "name": "Butter Cover",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 300.0
+  },
+  {
+   "name": "Butter Ip",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 262.8
+  },
+  {
+   "name": "Choco Lava Cake",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Box",
+   "consumption_unit": "Box",
+   "conversion_ratio": 1.0,
+   "start_price": 240.0
+  },
+  {
+   "name": "Cream",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 235.0
+  },
+  {
+   "name": "Curd ( Open )",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Box",
+   "consumption_unit": "Box",
+   "conversion_ratio": 1.0,
+   "start_price": 290.0
+  },
+  {
+   "name": "Curd Packet",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Liters",
+   "consumption_unit": "Liters",
+   "conversion_ratio": 1.0,
+   "start_price": 50.0
+  },
+  {
+   "name": "Double Chocolate Walnut Brownie",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Box",
+   "consumption_unit": "Box",
+   "conversion_ratio": 1.0,
+   "start_price": 263.4
+  },
+  {
+   "name": "Eggs Tray",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 6.3
+  },
+  {
+   "name": "Frozen Sweet Corn",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 92.0
+  },
+  {
+   "name": "Full Cream Milk Box",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 75.6
+  },
+  {
+   "name": "Gulab Jamun Round",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 13.5
+  },
+  {
+   "name": "Ice",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 7.0
+  },
+  {
+   "name": "Johns Mozarella Cheese",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 513.41
+  },
+  {
+   "name": "Jubiliant Nutty Walnut Brownie",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Box",
+   "consumption_unit": "Box",
+   "conversion_ratio": 1.0,
+   "start_price": 253.2
+  },
+  {
+   "name": "Khoya",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 360.0
+  },
+  {
+   "name": "Milk",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Liters",
+   "consumption_unit": "Liters",
+   "conversion_ratio": 1.0,
+   "start_price": 72.0
+  },
+  {
+   "name": "Milk Powder",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 125.0
+  },
+  {
+   "name": "Noodles",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "daily",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 80.0
+  },
+  {
+   "name": "Paneer",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 300.0
+  },
+  {
+   "name": "Parmesan Cheese",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 1300.0
+  },
+  {
+   "name": "Plain Tortilla",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 110.0
+  },
+  {
+   "name": "Processed Cheese",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 2.0,
+   "start_price": 550.2
+  },
+  {
+   "name": "Separata Curd",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 54.0
+  },
+  {
+   "name": "Soya Chaap",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 85.0
+  },
+  {
+   "name": "Spring Roll Sheet 10' Inch",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 211.4
+  },
+  {
+   "name": "Toned Milk Box",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 70.2
+  },
+  {
+   "name": "Vanilla Ice Cream",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 380.0
+  },
+  {
+   "name": "Whole Wheat Tortilla",
+   "category": "DAIRY_AND_DESSERTS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 137.6
+  },
+  {
+   "name": "Fish Sauce",
+   "category": "DRESSINGS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 150.0
+  },
+  {
+   "name": "Red wine Vinegar",
+   "category": "DRESSINGS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 150.0
+  },
+  {
+   "name": "Coconut Water",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 25.0
+  },
+  {
+   "name": "Coke 250 Ml",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 17.5
+  },
+  {
+   "name": "Coke 750 Ml",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 17.5
+  },
+  {
+   "name": "Coke Can",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 24.0,
+   "start_price": 740.0
+  },
+  {
+   "name": "Coke Zero",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 24.0,
+   "start_price": 740.0
+  },
+  {
+   "name": "DIET COKE BOTTLE",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 30.0,
+   "start_price": 525.0
+  },
+  {
+   "name": "Diet Coke - 180 Ml",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Diet Coke - 300 Ml",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 24.0,
+   "start_price": 740.0
+  },
+  {
+   "name": "Fanta 250 Ml",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 17.5
+  },
+  {
+   "name": "Jain Shikanji",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "peti",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 24.0,
+   "start_price": 195.0
+  },
+  {
+   "name": "Limca 250 Ml",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 17.5
+  },
+  {
+   "name": "Limca Can",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Maaza",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 30.0,
+   "start_price": 525.0
+  },
+  {
+   "name": "Mazza Aam Panna",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 17.5
+  },
+  {
+   "name": "Mineral Water",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 12.0,
+   "start_price": 145.0
+  },
+  {
+   "name": "Nimbooz",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 30.0,
+   "start_price": 525.0
+  },
+  {
+   "name": "Nimbu Fresh",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 17.5
+  },
+  {
+   "name": "Pulpy Orange",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "peti",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 30.0,
+   "start_price": 525.0
+  },
+  {
+   "name": "Soda",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 18.0,
+   "start_price": 365.0
+  },
+  {
+   "name": "Sprite 250 Ml",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 17.5
+  },
+  {
+   "name": "Thumbs Up 250 Ml",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 17.5
+  },
+  {
+   "name": "Thumbs Up 750 Ml",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 17.5
+  },
+  {
+   "name": "Thumbs up Can",
+   "category": "DRINKS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 24.0,
+   "start_price": 740.0
+  },
+  {
+   "name": "Kaju 2 Tukda",
+   "category": "DRY_FRUITS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 640.0
+  },
+  {
+   "name": "Kaju 4 Tukda",
+   "category": "DRY_FRUITS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 350.0
+  },
+  {
+   "name": "Magaz",
+   "category": "DRY_FRUITS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 530.0
+  },
+  {
+   "name": "Peanuts",
+   "category": "DRY_FRUITS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 2.0,
+   "start_price": 175.53
+  },
+  {
+   "name": "AJWAIN",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 30.0
+  },
+  {
+   "name": "Aamchur",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 220.0
+  },
+  {
+   "name": "Achar Masala",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Packet",
+   "consumption_unit": "Small_packet",
+   "conversion_ratio": 5.0,
+   "start_price": 260.0
+  },
+  {
+   "name": "Anar Dana",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 10.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Baking Powder",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Box",
+   "consumption_unit": "Box",
+   "conversion_ratio": 1.0,
+   "start_price": 79.2
+  },
+  {
+   "name": "Bay Leaf ( Tej Patta )",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 170.5
+  },
+  {
+   "name": "Black Pepper Whole",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 10.0,
+   "start_price": 630.0
+  },
+  {
+   "name": "Black Salt",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 41.0
+  },
+  {
+   "name": "Chaat Masala",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Bundle",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 10.0,
+   "start_price": 741.0
+  },
+  {
+   "name": "Chana Masala",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "Chicken Aromat",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Box",
+   "consumption_unit": "packet",
+   "conversion_ratio": 5.0,
+   "start_price": 258.3
+  },
+  {
+   "name": "Chicken Masala",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Bundle",
+   "consumption_unit": "packet",
+   "conversion_ratio": 10.0,
+   "start_price": 741.0
+  },
+  {
+   "name": "Chilli Flakes",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 366.8
+  },
+  {
+   "name": "Coriander Whole",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 250.0
+  },
+  {
+   "name": "Dal Chini",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 1200.0
+  },
+  {
+   "name": "Degi Mirch - MDH",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Bundle",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 10.0,
+   "start_price": 965.0
+  },
+  {
+   "name": "Degi Mirch - Non MDH",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 5.0,
+   "start_price": 620.0
+  },
+  {
+   "name": "Demi Glace",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Box",
+   "consumption_unit": "packet",
+   "conversion_ratio": 5.0,
+   "start_price": 323.5
+  },
+  {
+   "name": "Dry Ginger - Soth Powder",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 41.0
+  },
+  {
+   "name": "Elaichi",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 20.0,
+   "start_price": 2000.0
+  },
+  {
+   "name": "Garlic Powder",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 150.0
+  },
+  {
+   "name": "Gulab Pankhri - Rose Petals",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 20.0,
+   "start_price": 500.0
+  },
+  {
+   "name": "Haldi",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 140.0
+  },
+  {
+   "name": "Hing",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Box",
+   "consumption_unit": "Box",
+   "conversion_ratio": 1.0,
+   "start_price": 210.0
+  },
+  {
+   "name": "Javitri",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 2600.0
+  },
+  {
+   "name": "Jeera",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 325.5
+  },
+  {
+   "name": "Kastoori Methi",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 360.0
+  },
+  {
+   "name": "Kitchen King",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Bundle",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 10.0,
+   "start_price": 787.0
+  },
+  {
+   "name": "Laung",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 20.0,
+   "start_price": 911.0
+  },
+  {
+   "name": "Meat Masala",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Bundle",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 10.0,
+   "start_price": 787.0
+  },
+  {
+   "name": "Moti Elaichi",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 1125.0
+  },
+  {
+   "name": "Nutmeg ( Jaifal )",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 1200.0
+  },
+  {
+   "name": "Onion Powder",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 210.0
+  },
+  {
+   "name": "Oregano",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 320.0
+  },
+  {
+   "name": "PERI PERI SPRINKLER",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 132.21
+  },
+  {
+   "name": "Peri Peri Marinade",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 212.0
+  },
+  {
+   "name": "Pipra",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "small_packet",
+   "conversion_ratio": 20.0,
+   "start_price": 1040.0
+  },
+  {
+   "name": "Pizza Spice Mix",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 461.0
+  },
+  {
+   "name": "ROASTED CHANA",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 150.0
+  },
+  {
+   "name": "Red Chilli Powder",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 429.5
+  },
+  {
+   "name": "Red Chilli Whole",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 340.0
+  },
+  {
+   "name": "Salt",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 27.47
+  },
+  {
+   "name": "Saunf",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 4.0,
+   "start_price": 250.0
+  },
+  {
+   "name": "Schewan Pepper",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 400.0
+  },
+  {
+   "name": "Star Anise",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 947.0
+  },
+  {
+   "name": "Veg Aromat",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Box",
+   "consumption_unit": "packet",
+   "conversion_ratio": 5.0,
+   "start_price": 182.0
+  },
+  {
+   "name": "White Pepper",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 10.0,
+   "start_price": 1018.4
+  },
+  {
+   "name": "White Sesame Seeds ( Til )",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 278.3
+  },
+  {
+   "name": "Yellow Mirchi",
+   "category": "DRY_SPICES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 54.6
+  },
+  {
+   "name": "Ajino Moto",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 114.53
+  },
+  {
+   "name": "Apple Green Color",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Tin",
+   "consumption_unit": "Tin",
+   "conversion_ratio": 1.0,
+   "start_price": 80.0
+  },
+  {
+   "name": "Honey",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 269.0
+  },
+  {
+   "name": "Kesar",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 145.0
+  },
+  {
+   "name": "Kewda Water",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 63.8
+  },
+  {
+   "name": "Lemon Yellow Color",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Tin",
+   "consumption_unit": "Tin",
+   "conversion_ratio": 1.0,
+   "start_price": 80.0
+  },
+  {
+   "name": "Orange Red Color",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Tin",
+   "consumption_unit": "Tin",
+   "conversion_ratio": 1.0,
+   "start_price": 74.4
+  },
+  {
+   "name": "Pickle Bottle",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 180.0
+  },
+  {
+   "name": "Pineapple Slice Tin",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Tin",
+   "consumption_unit": "Tin",
+   "conversion_ratio": 1.0,
+   "start_price": 120.0
+  },
+  {
+   "name": "Rose Water",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 63.8
+  },
+  {
+   "name": "Tomato Puree",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Tin",
+   "consumption_unit": "Tin",
+   "conversion_ratio": 1.0,
+   "start_price": 67.5
+  },
+  {
+   "name": "Vanilla Essence",
+   "category": "FLAVOURS_AND_ESSENCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 30.0
+  },
+  {
+   "name": "3M Mirco Fiber Cloth",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 4.0,
+   "start_price": 183.69
+  },
+  {
+   "name": "Air Freshner",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 97.2
+  },
+  {
+   "name": "COAL",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "BORA",
+   "consumption_unit": "BORA",
+   "conversion_ratio": 1.0,
+   "start_price": 1750.0
+  },
+  {
+   "name": "Detergent Powder",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Duster",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 12.0,
+   "start_price": 130.0
+  },
+  {
+   "name": "Green Scrub Pad",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 10.62
+  },
+  {
+   "name": "Phenyl",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Liters",
+   "consumption_unit": "Liters",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "Pocha",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 12.0,
+   "start_price": 185.0
+  },
+  {
+   "name": "Rumali Roti",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 5.0
+  },
+  {
+   "name": "STEEL JUNA",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 10.0
+  },
+  {
+   "name": "Staff Breakfast",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "na",
+   "consumption_unit": "na",
+   "conversion_ratio": 1.0,
+   "start_price": 95.0
+  },
+  {
+   "name": "Staff Sabzi",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Staff Tea",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 4.0,
+   "start_price": 198.4
+  },
+  {
+   "name": "Staff Water Bottle",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 25.0
+  },
+  {
+   "name": "Vim Bar",
+   "category": "KITCHEN_UTILITY",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Bubble Gum Shake",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 510.0
+  },
+  {
+   "name": "Chilli Guava",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 510.0
+  },
+  {
+   "name": "Chocolate Topping",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 220.0
+  },
+  {
+   "name": "Cookie Crumbs",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 450.0
+  },
+  {
+   "name": "Green Apple",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 710.0
+  },
+  {
+   "name": "Hot Chocolate Fudge",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 254.1
+  },
+  {
+   "name": "Kala Khatta",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 510.0
+  },
+  {
+   "name": "Kitkat",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Box",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 21.0,
+   "start_price": 598.29
+  },
+  {
+   "name": "Lemon Ice Tea",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 276.15
+  },
+  {
+   "name": "Mint Mojito",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 351.75
+  },
+  {
+   "name": "Oreo",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 9.3
+  },
+  {
+   "name": "Peach Ice Tea",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 276.15
+  },
+  {
+   "name": "Salted Caramel",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 50.0
+  },
+  {
+   "name": "Spicy Jamun",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 710.0
+  },
+  {
+   "name": "Strawberry Crush Syrup",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 237.6
+  },
+  {
+   "name": "Strawberry Mojito",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 710.0
+  },
+  {
+   "name": "Vanilla Frappe",
+   "category": "MIXERS_AND_SYRUPS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "small_packet",
+   "conversion_ratio": 4.0,
+   "start_price": 630.0
+  },
+  {
+   "name": "Kuttu ka aata",
+   "category": "NAVRATRI_SPECIAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 4.0,
+   "start_price": 97.0
+  },
+  {
+   "name": "Sabudana",
+   "category": "NAVRATRI_SPECIAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 4.0,
+   "start_price": 95.0
+  },
+  {
+   "name": "Sendha Namak",
+   "category": "NAVRATRI_SPECIAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 30.0
+  },
+  {
+   "name": "Singhada ka Aata",
+   "category": "NAVRATRI_SPECIAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 4.0,
+   "start_price": 120.0
+  },
+  {
+   "name": "Swang ka Aata",
+   "category": "NAVRATRI_SPECIAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 4.0,
+   "start_price": 120.0
+  },
+  {
+   "name": "Swang ke Chawal",
+   "category": "NAVRATRI_SPECIAL",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 4.0,
+   "start_price": 120.0
+  },
+  {
+   "name": "Dalda",
+   "category": "OILS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 165.0
+  },
+  {
+   "name": "Desi Ghee",
+   "category": "OILS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 508.5
+  },
+  {
+   "name": "Mustard Oil",
+   "category": "OILS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Liters",
+   "consumption_unit": "Liters",
+   "conversion_ratio": 1.0,
+   "start_price": 215.0
+  },
+  {
+   "name": "Olive Oil",
+   "category": "OILS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Liters",
+   "conversion_ratio": 1.0,
+   "start_price": 494.0
+  },
+  {
+   "name": "Refined Oil",
+   "category": "OILS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 132.5
+  },
+  {
+   "name": "Refined Tin",
+   "category": "OILS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Tin",
+   "consumption_unit": "Tin",
+   "conversion_ratio": 1.0,
+   "start_price": 1662.67
+  },
+  {
+   "name": "Sesame Oil",
+   "category": "OILS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Liters",
+   "conversion_ratio": 1.0,
+   "start_price": 375.9
+  },
+  {
+   "name": "10\" Inch Plate",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 120.0
+  },
+  {
+   "name": "100 Ml Box",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 152.2
+  },
+  {
+   "name": "12\" Eco Plate",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 275.0
+  },
+  {
+   "name": "12\" Plate Laminated",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 225.0
+  },
+  {
+   "name": "150 ml box",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "packet",
+   "conversion_ratio": 40.0,
+   "start_price": 6608.0
+  },
+  {
+   "name": "1500 ml Box",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "peti",
+   "consumption_unit": "packet",
+   "conversion_ratio": 10.0,
+   "start_price": 6342.5
+  },
+  {
+   "name": "200 Ml Box",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "packet",
+   "conversion_ratio": 20.0,
+   "start_price": 2800.0
+  },
+  {
+   "name": "3 Cp Thali",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 175.0
+  },
+  {
+   "name": "300 Ml Box",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 241.99
+  },
+  {
+   "name": "400 Ml Box",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Peti",
+   "consumption_unit": "packet",
+   "conversion_ratio": 10.0,
+   "start_price": 2000.0
+  },
+  {
+   "name": "5 Cp Thali",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 10.87
+  },
+  {
+   "name": "50 Ml Box",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 72.0
+  },
+  {
+   "name": "500 Ml Rectangle",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 338.49
+  },
+  {
+   "name": "500 Ml Round",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 250.0
+  },
+  {
+   "name": "6\" Foil Plate",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "750 Ml Rectangle",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 377.5
+  },
+  {
+   "name": "8 Cp Thali",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 12.0
+  },
+  {
+   "name": "8\" Eco Plate",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "8\" Laminate Plate",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "Big Paper Bag",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 600.0
+  },
+  {
+   "name": "Big Paper Envelope",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 239.4
+  },
+  {
+   "name": "Big Tray",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "Blue Dustbin Bags",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "kg",
+   "consumption_unit": "kg",
+   "conversion_ratio": 1.0,
+   "start_price": 150.0
+  },
+  {
+   "name": "Butter Paper",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 220.0
+  },
+  {
+   "name": "Chilli Flakes Sachets",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 121.23
+  },
+  {
+   "name": "Cling Wrap",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 400.0
+  },
+  {
+   "name": "Cutlery Pouch",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 25.0
+  },
+  {
+   "name": "Foil Paper",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 450.0
+  },
+  {
+   "name": "Fork",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 60.0
+  },
+  {
+   "name": "Fruit Kaata",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Green Chilli Sachets",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 72.8
+  },
+  {
+   "name": "Hair Net",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 60.0
+  },
+  {
+   "name": "Handi",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Handi Lid",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 5.0
+  },
+  {
+   "name": "Kfc Glass",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 1.6
+  },
+  {
+   "name": "Khaki Lifafa Staff",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Kot Roll",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 34.0
+  },
+  {
+   "name": "Kulcha Lifafa",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 160.0
+  },
+  {
+   "name": "Mayonaisse Sachets",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 285.6
+  },
+  {
+   "name": "Medium Paper Bag",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 175.0
+  },
+  {
+   "name": "Moulded Glass Round",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 6.34
+  },
+  {
+   "name": "Mouth Freshner",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 110.0
+  },
+  {
+   "name": "Paper Cup 60 Ml",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 40.0
+  },
+  {
+   "name": "Pickle",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "small_packet",
+   "conversion_ratio": 10.0,
+   "start_price": 115.6
+  },
+  {
+   "name": "Pizza Box",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 10.0
+  },
+  {
+   "name": "Pizza Stool",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Packet",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 100.0,
+   "start_price": 185.0
+  },
+  {
+   "name": "Rice Bowl 650 Ml Round",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 475.54
+  },
+  {
+   "name": "Roll Box",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 6.0
+  },
+  {
+   "name": "Roti Lifafa Large",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 60.0
+  },
+  {
+   "name": "Roti Lifafa Medium",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 35.0
+  },
+  {
+   "name": "Roti Lifafa Small",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 25.0
+  },
+  {
+   "name": "Sandwich Paper Box",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 10.0
+  },
+  {
+   "name": "Small Box",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 15.0
+  },
+  {
+   "name": "Small Paper Bag",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 641.5
+  },
+  {
+   "name": "Small Paper Envelope",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 184.8
+  },
+  {
+   "name": "Small Tray",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 60.0
+  },
+  {
+   "name": "Soup Spoon",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 60.0
+  },
+  {
+   "name": "Spoon",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 60.0
+  },
+  {
+   "name": "Straw",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 22.5
+  },
+  {
+   "name": "Swiggy Tape 1\"",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 6.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Tape 1\"",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Bundle",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 12.0,
+   "start_price": 210.1
+  },
+  {
+   "name": "Tape 2\"",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Bundle",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 6.0,
+   "start_price": 152.1
+  },
+  {
+   "name": "Tissues",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 14.0
+  },
+  {
+   "name": "Tomato Ketchup Sachets",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 77.3
+  },
+  {
+   "name": "Tooth Pick",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Dabbi",
+   "consumption_unit": "Dabbi",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Ziplock Bag",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 200.0
+  },
+  {
+   "name": "Zomato Tape 1\"",
+   "category": "PACKAGING",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 6.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Mix Veg",
+   "category": "PRE_MADE",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 95.0
+  },
+  {
+   "name": "Arhar Dal",
+   "category": "PULSES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 165.0
+  },
+  {
+   "name": "Chana Dal",
+   "category": "PULSES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 75.0
+  },
+  {
+   "name": "Kala Chana",
+   "category": "PULSES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 83.35
+  },
+  {
+   "name": "Mix Dal",
+   "category": "PULSES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 120.0
+  },
+  {
+   "name": "Pindi Chana",
+   "category": "PULSES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Box",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 126.0
+  },
+  {
+   "name": "Rajma",
+   "category": "PULSES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 160.7
+  },
+  {
+   "name": "Urad Sabut",
+   "category": "PULSES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 137.67
+  },
+  {
+   "name": "Basa Fish",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 300.0
+  },
+  {
+   "name": "Fish Finger ( RTC )",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Hapus Fish",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Raw Chicken Breast",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 260.0
+  },
+  {
+   "name": "Raw Chicken Full Leg",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 240.0
+  },
+  {
+   "name": "Raw Chicken Tangdi",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 260.0
+  },
+  {
+   "name": "Raw Chicken Thigh",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 350.0
+  },
+  {
+   "name": "Raw Chicken Wings",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 260.0
+  },
+  {
+   "name": "Raw Mutton",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 780.0
+  },
+  {
+   "name": "Raw Mutton Boneless",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 880.0
+  },
+  {
+   "name": "Raw Mutton Fat",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 400.0
+  },
+  {
+   "name": "Raw Mutton Gurde",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 500.0
+  },
+  {
+   "name": "Raw Mutton Kaleji",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 500.0
+  },
+  {
+   "name": "Raw Mutton Magaz",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 110.0
+  },
+  {
+   "name": "Raw Tandoori Piece",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Piece",
+   "consumption_unit": "Piece",
+   "conversion_ratio": 1.0,
+   "start_price": 200.0
+  },
+  {
+   "name": "Sole Fish",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 1200.0
+  },
+  {
+   "name": "Surmai Fish",
+   "category": "RAW_MEATS",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 1200.0
+  },
+  {
+   "name": "Aata",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 41.4
+  },
+  {
+   "name": "Besan",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 90.0
+  },
+  {
+   "name": "Brown Rice",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 2.0,
+   "start_price": 131.7
+  },
+  {
+   "name": "Cornflour",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 53.76
+  },
+  {
+   "name": "Maida",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 41.7
+  },
+  {
+   "name": "Panko Breadcrumbs",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 125.0
+  },
+  {
+   "name": "Papad",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 47.0
+  },
+  {
+   "name": "Pasta Penne",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 121.0
+  },
+  {
+   "name": "Sooji",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 62.0
+  },
+  {
+   "name": "Staff Rice",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 42.0
+  },
+  {
+   "name": "Table Rice",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 94.7
+  },
+  {
+   "name": "Udon Noodle",
+   "category": "RICE_AND_FLOURS",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 78.4
+  },
+  {
+   "name": "Dijon Mustard",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 150.0
+  },
+  {
+   "name": "English Mustard",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "Green Chilli Sauce",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Can",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 25.0,
+   "start_price": 1480.0
+  },
+  {
+   "name": "Mint Mayo",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 215.0
+  },
+  {
+   "name": "Oyester Sauce",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 208.86
+  },
+  {
+   "name": "Plain Mayonaisse",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 118.0
+  },
+  {
+   "name": "Soya Sauce - Tops",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 72.45
+  },
+  {
+   "name": "Sweet Chilli Sauce",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 223.0
+  },
+  {
+   "name": "Tandoori Mayo",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 215.0
+  },
+  {
+   "name": "Thousand Island",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 187.0
+  },
+  {
+   "name": "Tomato Ketchup",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "Spout",
+   "consumption_unit": "Spout",
+   "conversion_ratio": 1.0,
+   "start_price": 71.75
+  },
+  {
+   "name": "Vinegar Bottle",
+   "category": "SAUCES",
+   "pricing_mode": "weekly_avg",
+   "purchase_unit": "bottle",
+   "consumption_unit": "Bottle",
+   "conversion_ratio": 1.0,
+   "start_price": 64.4
+  },
+  {
+   "name": "Baby Corn",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "packet",
+   "consumption_unit": "packet",
+   "conversion_ratio": 1.0,
+   "start_price": 50.0
+  },
+  {
+   "name": "Basil",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Beans",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 90.0
+  },
+  {
+   "name": "BeetRoot",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 50.0
+  },
+  {
+   "name": "Brinjal",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Brocoli",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 250.0
+  },
+  {
+   "name": "Cabbage",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 35.0
+  },
+  {
+   "name": "Capsicum Green",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 70.0
+  },
+  {
+   "name": "Carrot",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 50.0
+  },
+  {
+   "name": "Cauliflower",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "Celery",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 250.0
+  },
+  {
+   "name": "Cherry Tomato",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "packet",
+   "conversion_ratio": 5.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Chinese Cabbage",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Coriander",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 150.0
+  },
+  {
+   "name": "Cucumber",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 50.0
+  },
+  {
+   "name": "Curry Leaves",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Ginger",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "Green Chilli",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 90.0
+  },
+  {
+   "name": "Green Lettuce",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Green Peas Covered",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "Green Peas Packet",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "Green Zucchinni",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "Ice Berg Lettuce",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 80.0
+  },
+  {
+   "name": "Lauki",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Leeks",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Lemon",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 120.0
+  },
+  {
+   "name": "Mint",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 110.0
+  },
+  {
+   "name": "Mushroom",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Box",
+   "consumption_unit": "Box",
+   "conversion_ratio": 1.0,
+   "start_price": 30.0
+  },
+  {
+   "name": "Onion",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 50.0
+  },
+  {
+   "name": "Palak",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 50.0
+  },
+  {
+   "name": "Parsley",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 250.0
+  },
+  {
+   "name": "Peeled Garlic",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 108.3
+  },
+  {
+   "name": "Potato Red",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Potato White New",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Potato White Old",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 20.0
+  },
+  {
+   "name": "Raddish",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Raw Papaya",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Red Bellpepper",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 200.0
+  },
+  {
+   "name": "Rosemary",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "grams",
+   "conversion_ratio": 1000.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Sabut Mota Garlic",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 200.0
+  },
+  {
+   "name": "Spring Onion",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 100.0
+  },
+  {
+   "name": "Sprouts",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Thyme",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Tomato Gravy",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 24.0
+  },
+  {
+   "name": "Tomato Salad",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 35.0
+  },
+  {
+   "name": "Tori",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 0.0
+  },
+  {
+   "name": "Yellow Bellpepper",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 200.0
+  },
+  {
+   "name": "Yellow Zucchinni",
+   "category": "VEGETABLES",
+   "pricing_mode": "daily",
+   "purchase_unit": "Kg",
+   "consumption_unit": "Kg",
+   "conversion_ratio": 1.0,
+   "start_price": 120.0
+  }
+ ],
+ "stations": {
+  "Indian": [
+   "Butter Ip",
+   "Butter Cover",
+   "Refined Oil",
+   "Black Pepper Whole",
+   "Cream",
+   "Kaju 2 Tukda",
+   "Chicken Masala",
+   "Kitchen King",
+   "Meat Masala",
+   "Urad Sabut",
+   "Salt",
+   "Degi Mirch - MDH",
+   "Degi Mirch - Non MDH",
+   "Kaju 4 Tukda",
+   "Elaichi",
+   "Arhar Dal",
+   "Chana Dal",
+   "Pindi Chana",
+   "Tomato Puree",
+   "Magaz",
+   "Kewda Water",
+   "Red Chilli Powder",
+   "Haldi",
+   "Rose Water",
+   "Milk",
+   "Curd Packet",
+   "Eggs Tray",
+   "Kastoori Methi",
+   "Coriander Whole",
+   "Orange Red Color",
+   "Bay Leaf ( Tej Patta )",
+   "Dal Chini",
+   "Javitri",
+   "Moti Elaichi",
+   "Star Anise",
+   "Khoya",
+   "Chana Masala",
+   "Desi Ghee",
+   "Jeera",
+   "Mustard Oil",
+   "Rajma",
+   "Paneer",
+   "Brown Rice",
+   "Table Rice",
+   "Sugar",
+   "Soya Chaap",
+   "Dalda",
+   "Saunf",
+   "Separata Curd",
+   "Pipra",
+   "Dry Ginger - Soth Powder",
+   "Gulab Pankhri - Rose Petals",
+   "Nutmeg ( Jaifal )",
+   "Hing",
+   "Laung",
+   "Besan",
+   "Mix Veg",
+   "Onion",
+   "Tomato Gravy",
+   "Tomato Salad",
+   "Potato Red",
+   "Potato White Old",
+   "Potato White New",
+   "Green Peas Packet",
+   "Cauliflower",
+   "Cabbage",
+   "Basil",
+   "Thyme",
+   "Spring Onion",
+   "Capsicum Green",
+   "Yellow Bellpepper",
+   "Red Bellpepper",
+   "Cucumber",
+   "Carrot",
+   "Brocoli",
+   "Beans",
+   "Coriander",
+   "Mint",
+   "Parsley",
+   "Green Chilli",
+   "Ice Berg Lettuce",
+   "Green Lettuce",
+   "Lemon",
+   "Sabut Mota Garlic",
+   "Peeled Garlic",
+   "Green Zucchinni",
+   "Yellow Zucchinni",
+   "Cherry Tomato",
+   "Palak",
+   "Ginger",
+   "Mushroom",
+   "Baby Corn",
+   "BeetRoot",
+   "Raw Papaya",
+   "Celery",
+   "Leeks",
+   "Rosemary",
+   "Raw Tandoori Piece",
+   "Raw Chicken Full Leg",
+   "Raw Mutton",
+   "Raw Mutton Boneless",
+   "Raw Mutton Gurde",
+   "Raw Mutton Kaleji",
+   "Raw Mutton Magaz",
+   "Raw Chicken Thigh",
+   "Raw Mutton Fat",
+   "Raw Chicken Tangdi",
+   "Raw Chicken Wings",
+   "Raw Chicken Breast",
+   "Surmai Fish",
+   "Sole Fish",
+   "Hapus Fish",
+   "Basa Fish"
+  ],
+  "Tandoor": [
+   "Butter Cover",
+   "Butter Ip",
+   "Refined Oil",
+   "Black Pepper Whole",
+   "White Pepper",
+   "Cream",
+   "Chaat Masala",
+   "Kitchen King",
+   "Salt",
+   "Degi Mirch - MDH",
+   "Degi Mirch - Non MDH",
+   "Kaju 4 Tukda",
+   "Saute Sticks",
+   "Khoya",
+   "Sooji",
+   "Elaichi",
+   "Yellow Mirchi",
+   "Kewda Water",
+   "Kastoori Methi",
+   "Coriander Whole",
+   "Moti Elaichi",
+   "Milk Powder",
+   "Jeera",
+   "Mustard Oil",
+   "Laung",
+   "Processed Cheese",
+   "Paneer",
+   "Curd ( Open )",
+   "Panko Breadcrumbs",
+   "Orange Red Color",
+   "Black Salt",
+   "Aata",
+   "Maida",
+   "Aamchur",
+   "Curd Packet",
+   "Soya Chaap",
+   "Foil Paper",
+   "Chilli Flakes",
+   "Dalda",
+   "Desi Ghee",
+   "AJWAIN",
+   "Saunf",
+   "ROASTED CHANA",
+   "Besan",
+   "Duster",
+   "Pocha",
+   "Onion",
+   "Tomato Gravy",
+   "Tomato Salad",
+   "Potato Red",
+   "Potato White Old",
+   "Potato White New",
+   "Green Peas Packet",
+   "Cauliflower",
+   "Cabbage",
+   "Basil",
+   "Thyme",
+   "Spring Onion",
+   "Capsicum Green",
+   "Yellow Bellpepper",
+   "Red Bellpepper",
+   "Cucumber",
+   "Carrot",
+   "Brocoli",
+   "Beans",
+   "Coriander",
+   "Mint",
+   "Parsley",
+   "Green Chilli",
+   "Ice Berg Lettuce",
+   "Green Lettuce",
+   "Lemon",
+   "Sabut Mota Garlic",
+   "Peeled Garlic",
+   "Green Zucchinni",
+   "Yellow Zucchinni",
+   "Cherry Tomato",
+   "Palak",
+   "Ginger",
+   "Mushroom",
+   "Baby Corn",
+   "BeetRoot",
+   "Raw Papaya",
+   "Celery",
+   "Leeks",
+   "Rosemary",
+   "Raw Tandoori Piece",
+   "Raw Chicken Full Leg",
+   "Raw Mutton",
+   "Raw Mutton Boneless",
+   "Raw Mutton Gurde",
+   "Raw Mutton Kaleji",
+   "Raw Mutton Magaz",
+   "Raw Chicken Thigh",
+   "Raw Mutton Fat",
+   "Raw Chicken Tangdi",
+   "Raw Chicken Wings",
+   "Raw Chicken Breast",
+   "Surmai Fish",
+   "Sole Fish",
+   "Hapus Fish",
+   "Basa Fish"
+  ],
+  "Chinese": [
+   "White Pepper",
+   "Paneer",
+   "Cornflour",
+   "Chicken Aromat",
+   "Veg Aromat",
+   "Refined Oil",
+   "Udon Noodle",
+   "Noodles",
+   "Salt",
+   "Ajino Moto",
+   "Pineapple Slice Tin",
+   "Vinegar Bottle",
+   "Soya Sauce - Tops",
+   "Eggs Tray",
+   "Tomato Ketchup",
+   "Orange Red Color",
+   "Red Chilli Whole",
+   "Honey",
+   "Panko Breadcrumbs",
+   "Pocha",
+   "Lemon Yellow Color",
+   "Duster",
+   "Sesame Oil",
+   "Sweet Chilli Sauce",
+   "Frozen Sweet Corn",
+   "Green Chilli Sauce",
+   "Schewan Pepper",
+   "Onion",
+   "Tomato Gravy",
+   "Tomato Salad",
+   "Potato Red",
+   "Potato White Old",
+   "Potato White New",
+   "Green Peas Packet",
+   "Cauliflower",
+   "Cabbage",
+   "Basil",
+   "Thyme",
+   "Spring Onion",
+   "Capsicum Green",
+   "Yellow Bellpepper",
+   "Red Bellpepper",
+   "Cucumber",
+   "Carrot",
+   "Brocoli",
+   "Beans",
+   "Coriander",
+   "Mint",
+   "Parsley",
+   "Green Chilli",
+   "Ice Berg Lettuce",
+   "Green Lettuce",
+   "Lemon",
+   "Sabut Mota Garlic",
+   "Peeled Garlic",
+   "Green Zucchinni",
+   "Yellow Zucchinni",
+   "Cherry Tomato",
+   "Palak",
+   "Ginger",
+   "Mushroom",
+   "Baby Corn",
+   "BeetRoot",
+   "Raw Papaya",
+   "Celery",
+   "Leeks",
+   "Rosemary",
+   "Raw Tandoori Piece",
+   "Raw Chicken Full Leg",
+   "Raw Mutton",
+   "Raw Mutton Boneless",
+   "Raw Mutton Gurde",
+   "Raw Mutton Kaleji",
+   "Raw Mutton Magaz",
+   "Raw Chicken Thigh",
+   "Raw Mutton Fat",
+   "Raw Chicken Tangdi",
+   "Raw Chicken Wings",
+   "Raw Chicken Breast",
+   "Surmai Fish",
+   "Sole Fish",
+   "Hapus Fish",
+   "Basa Fish"
+  ],
+  "Conti": [
+   "Butter Cover",
+   "White Bread",
+   "Green Olives Tin",
+   "Garlic Loaf",
+   "Refined Oil",
+   "Black Pepper Whole",
+   "Paneer",
+   "Cream",
+   "Processed Cheese",
+   "Parmesan Cheese",
+   "Salt",
+   "Demi Glace",
+   "Veg Aromat",
+   "Black Olives Tin",
+   "Chocolate Topping",
+   "Johns Mozarella Cheese",
+   "Pasta Penne",
+   "Tomato Ketchup",
+   "Brown Bread",
+   "Dijon Mustard",
+   "Whole Wheat Tortilla",
+   "Butter Paper",
+   "Coffee",
+   "Oreo",
+   "Kitkat",
+   "Hot Chocolate Fudge",
+   "Lemon Ice Tea",
+   "Mint Mojito",
+   "Strawberry Mojito",
+   "Olive Oil",
+   "Nachos",
+   "Peanuts",
+   "Peri Peri Marinade",
+   "PERI PERI SPRINKLER",
+   "Pizza Spice Mix",
+   "Plain Mayonaisse",
+   "Plain Tortilla",
+   "Peach Ice Tea",
+   "Oregano",
+   "Chilli Flakes",
+   "Thousand Island",
+   "Vanilla Ice Cream",
+   "Duster",
+   "Pocha",
+   "Vanilla Frappe",
+   "Milk",
+   "Sugar",
+   "Staff Tea",
+   "French Fries",
+   "Onion",
+   "Tomato Gravy",
+   "Tomato Salad",
+   "Potato Red",
+   "Potato White Old",
+   "Potato White New",
+   "Green Peas Packet",
+   "Cauliflower",
+   "Cabbage",
+   "Basil",
+   "Thyme",
+   "Spring Onion",
+   "Capsicum Green",
+   "Yellow Bellpepper",
+   "Red Bellpepper",
+   "Cucumber",
+   "Carrot",
+   "Brocoli",
+   "Beans",
+   "Coriander",
+   "Mint",
+   "Parsley",
+   "Green Chilli",
+   "Ice Berg Lettuce",
+   "Green Lettuce",
+   "Lemon",
+   "Sabut Mota Garlic",
+   "Peeled Garlic",
+   "Green Zucchinni",
+   "Yellow Zucchinni",
+   "Cherry Tomato",
+   "Palak",
+   "Ginger",
+   "Mushroom",
+   "Baby Corn",
+   "BeetRoot",
+   "Raw Papaya",
+   "Celery",
+   "Leeks",
+   "Rosemary",
+   "Raw Tandoori Piece",
+   "Raw Chicken Full Leg",
+   "Raw Mutton",
+   "Raw Mutton Boneless",
+   "Raw Mutton Gurde",
+   "Raw Mutton Kaleji",
+   "Raw Mutton Magaz",
+   "Raw Chicken Thigh",
+   "Raw Mutton Fat",
+   "Raw Chicken Tangdi",
+   "Raw Chicken Wings",
+   "Raw Chicken Breast",
+   "Surmai Fish",
+   "Sole Fish",
+   "Hapus Fish",
+   "Basa Fish"
+  ],
+  "Staff": [
+   "Eggs Tray",
+   "Staff Rice",
+   "Staff Tea",
+   "Potato White Old",
+   "Potato White New",
+   "Milk",
+   "Duster",
+   "Pocha",
+   "Mix Dal",
+   "Chana Dal",
+   "Rajma",
+   "Kala Chana",
+   "Pindi Chana",
+   "Staff Sabzi",
+   "Arhar Dal",
+   "Paneer",
+   "Sugar",
+   "Green Scrub Pad",
+   "Raw Tandoori Piece",
+   "Staff Water Bottle",
+   "STEEL JUNA",
+   "Vim Bar",
+   "Detergent Powder",
+   "Staff Breakfast",
+   "Blue Dustbin Bags",
+   "3M Mirco Fiber Cloth",
+   "Air Freshner",
+   "Onion",
+   "Tomato Gravy",
+   "Tomato Salad",
+   "Potato Red",
+   "Green Peas Packet",
+   "Cauliflower",
+   "Cabbage",
+   "Basil",
+   "Thyme",
+   "Spring Onion",
+   "Capsicum Green",
+   "Yellow Bellpepper",
+   "Red Bellpepper",
+   "Cucumber",
+   "Carrot",
+   "Brocoli",
+   "Beans",
+   "Coriander",
+   "Mint",
+   "Parsley",
+   "Green Chilli",
+   "Ice Berg Lettuce",
+   "Green Lettuce",
+   "Lemon",
+   "Sabut Mota Garlic",
+   "Peeled Garlic",
+   "Green Zucchinni",
+   "Yellow Zucchinni",
+   "Cherry Tomato",
+   "Palak",
+   "Ginger",
+   "Mushroom",
+   "Baby Corn",
+   "BeetRoot",
+   "Raw Papaya",
+   "Celery",
+   "Leeks",
+   "Rosemary",
+   "Raw Chicken Full Leg",
+   "Raw Mutton",
+   "Raw Mutton Boneless",
+   "Raw Mutton Gurde",
+   "Raw Mutton Kaleji",
+   "Raw Mutton Magaz",
+   "Raw Chicken Thigh",
+   "Raw Mutton Fat",
+   "Raw Chicken Tangdi",
+   "Raw Chicken Wings",
+   "Raw Chicken Breast",
+   "Surmai Fish",
+   "Sole Fish",
+   "Hapus Fish",
+   "Basa Fish"
+  ],
+  "Packaging": [
+   "Roti Lifafa Medium",
+   "Roti Lifafa Small",
+   "Roti Lifafa Large",
+   "Khaki Lifafa Staff",
+   "Small Paper Bag",
+   "Medium Paper Bag",
+   "Big Paper Bag",
+   "Small Paper Envelope",
+   "Big Paper Envelope",
+   "50 Ml Box",
+   "100 Ml Box",
+   "200 Ml Box",
+   "300 Ml Box",
+   "400 Ml Box",
+   "500 Ml Rectangle",
+   "500 Ml Round",
+   "Rice Bowl 650 Ml Round",
+   "750 Ml Rectangle",
+   "1500 ml Box",
+   "8 Cp Thali",
+   "5 Cp Thali",
+   "Kulcha Lifafa",
+   "Paper Cup 60 Ml",
+   "Spoon",
+   "Fork",
+   "Soup Spoon",
+   "Pizza Stool",
+   "Tissues",
+   "Vinegar Sachets",
+   "Chilli Flakes Sachets",
+   "Oregano Sachets",
+   "Mayonaisse Sachets",
+   "Cutlery Pouch",
+   "Kot Roll",
+   "Green Chilli Sachets",
+   "Mouth Freshner",
+   "Tomato Ketchup Sachets",
+   "Straw",
+   "Fruit Kaata",
+   "Handi",
+   "Handi Lid",
+   "6\" Foil Plate",
+   "10\" Inch Plate",
+   "8\" Eco Plate",
+   "12\" Eco Plate",
+   "Roll Box",
+   "Sandwich Paper Box",
+   "Kfc Glass",
+   "Moulded Glass Round",
+   "150 ml box",
+   "Pizza Box",
+   "Tape 1\"",
+   "Tape 2\"",
+   "Foil Paper",
+   "Butter Paper",
+   "Cling Wrap",
+   "Hair Net",
+   "Tooth Pick"
+  ],
+  "Daily Items": [
+   "Coke 250 Ml",
+   "Thumbs Up 250 Ml",
+   "Fanta 250 Ml",
+   "Coke 750 Ml",
+   "Thumbs Up 750 Ml",
+   "Mineral Water",
+   "Limca 250 Ml",
+   "Sprite 250 Ml",
+   "Coconut Water",
+   "Diet Coke - 180 Ml",
+   "Diet Coke - 300 Ml",
+   "Soda",
+   "Mazza Aam Panna",
+   "Milk",
+   "Curd Packet",
+   "Amul Butter Chiplets",
+   "Onion",
+   "Carrot",
+   "Raddish",
+   "Jubiliant Nutty Walnut Brownie",
+   "Double Chocolate Walnut Brownie",
+   "Choco Lava Cake",
+   "Gulab Jamun Round",
+   "Cucumber",
+   "BeetRoot",
+   "Ice",
+   "Maaza",
+   "Nimbu Fresh",
+   "Pulpy Orange",
+   "Nimbooz",
+   "Coke Can",
+   "Thumbs up Can",
+   "Jain Shikanji",
+   "Coke Zero",
+   "DIET COKE BOTTLE",
+   "Rumali Roti",
+   "COAL"
+  ]
+ },
+ "channels": [
+  {
+   "platform": "Swiggy",
+   "brand": "Combos N Curries",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Oh Delhi",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Wok N Chopsticks",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Yin N Yum",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Soul Bites",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Fit N Fresh",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Noodles Express",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Dawaat E Khaas",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Kebabs N Biryanis",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Chinese Bao",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Punjabi Chicken Corner",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Curries Factory",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Oh Delhi Express",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "PCC Express",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Swiggy",
+   "brand": "Wok N Chopsticks Express",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Zomato",
+   "brand": "Combos N Curries",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Zomato",
+   "brand": "Oh Delhi",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Zomato",
+   "brand": "Wok N Chopsticks",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Zomato",
+   "brand": "Yin N Yum",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Zomato",
+   "brand": "Soul Bites",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Zomato",
+   "brand": "Fit N Fresh",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Zomato",
+   "brand": "Noodles Express",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Zomato",
+   "brand": "Punjabi Chicken Corner",
+   "kinds": [
+    "discount",
+    "delivery",
+    "ads"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Combos N Curries",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Oh Delhi",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Wok N Chopsticks",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Yin N Yum",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Soul Bites",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Fit N Fresh",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Noodles Express",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Dawaat E Khaas",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Kebabs N Biryanis",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Chinese Bao",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Punjabi Chicken Corner",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Curries Factory",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Oh Delhi Express",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "PCC Express",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Magic Pin",
+   "brand": "Wok N Chopsticks Express",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Offline",
+   "brand": "Oh Delhi",
+   "kinds": [
+    "discount"
+   ]
+  },
+  {
+   "platform": "Reelo",
+   "brand": "Campaigns",
+   "kinds": [
+    "ads"
+   ]
+  },
+  {
+   "platform": "Newspaper",
+   "brand": "Pamphlet Distribution",
+   "kinds": [
+    "ads"
+   ]
+  }
+ ],
+ "expense_categories": [
+  "Garbage Disposal",
+  "Mixie Repair",
+  "Gas Repair",
+  "Sewer Cleaning",
+  "Chimney Repair",
+  "Duct Cleaning",
+  "Cash Short / Over",
+  "Security Charges",
+  "Equipment Rent Charges",
+  "Uniform Supplies",
+  "Pest Control",
+  "Delivery Cost",
+  "Electricity Cost",
+  "Gas Cost",
+  "Water Cost",
+  "STAFF BREAKFAST",
+  "Staff Accomodation Rent",
+  "Store Rent",
+  "Basement Storage Rent",
+  "Electrical Repairs",
+  "MCD",
+  "Police",
+  "MCD Timarpur",
+  "Ad Hoc Expenses",
+  "Employee Incentives",
+  "Ads Cost ( Reelo )",
+  "Ads Cost ( Magazine )",
+  "Consultant Costs",
+  "Training / Hiring Costs",
+  "Software Renewal",
+  "Equipment Purchase",
+  "Store Internet - Airtel",
+  "Store Internet - Local"
+ ],
+ "staff": [
+  "Ajay",
+  "Balli",
+  "Chotu",
+  "Deepu",
+  "Govind",
+  "Jagdeep",
+  "Jiya Lal",
+  "Neeraj",
+  "Padam",
+  "Pancham",
+  "Pappu",
+  "Pradeep",
+  "Rahim",
+  "Ram Baran",
+  "Sandeep",
+  "Sohail",
+  "Suresh",
+  "UT 3",
+  "Yogesh"
+ ],
+ "brands": [
+  "Chinese Bao",
+  "Combos N Curries",
+  "Curries Factory",
+  "Dawaat E Khaas",
+  "Fit N Fresh",
+  "Kebabs N Biryanis",
+  "Noodles Express",
+  "Oh Delhi",
+  "Oh Delhi Express",
+  "PCC Express",
+  "Punjabi Chicken Corner",
+  "Soul Bites",
+  "Wok N Chopsticks",
+  "Wok N Chopsticks Express",
+  "Yin N Yum"
+ ]
+}
